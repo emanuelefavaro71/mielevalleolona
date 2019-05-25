@@ -1,0 +1,8 @@
+body {
+	background-image: url ("file:///C:/Users/Favaro%20Luca/Desktop/backgroud-bee.jpg");
+	  background-color: #ddddd;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 800px;
+	background-attachment: fixed;	
+}
